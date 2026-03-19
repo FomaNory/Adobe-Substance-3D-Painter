@@ -23,7 +23,7 @@ Installer and patcher for Adobe Substance 3D Painter.
 ---
 
 ## Disclaimer  
-This tool is for educational purposes only!
+This tool is for educational purposes only.
 
 
 
